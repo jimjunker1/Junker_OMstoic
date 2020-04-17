@@ -1,11 +1,8 @@
 ---
-title: "README"
-author: "James R Junker"
-date: "4/16/2020"
+title: "Patterns and Drivers of Ecosystem-level Biomass and Stoichiometry in Streams"
 output: github_document
 ---
 
-#Patterns and Drivers of Ecosystem-level Biomass and Stoichiometry in Streams
 
 This repository contains code and data needed to reproduce the article:
 
@@ -16,3 +13,5 @@ This repository contains code and data needed to reproduce the article:
 *Insert code link here*
 
 All analyses were done in `R`.
+
+The raw data consist of 
