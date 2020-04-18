@@ -6,7 +6,7 @@ output: github_document
 
 This repository contains code and data needed to reproduce the article:
 
-**Junker, JR, WF Cross, JP Benstead, AD Huryn, JM Hood, D Nelson** (In review). Patterns and Drivers of Ecosystem-level Biomass and Stoichiometry in Streams. *Ecosystems*
+**Junker, JR, WF Cross, JP Benstead, AD Huryn, JM Hood, D Nelson, GM Gíslason, JS Ólafsson.** (In review). Patterns and Drivers of Ecosystem-level Biomass and Stoichiometry in Streams. *Ecosystems*
 
 **Code DOI:**
 
