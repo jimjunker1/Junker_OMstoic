@@ -13,3 +13,18 @@ Stoichiometry in Streams. *Ecosystems*
 *Insert code link here*
 
 All analyses were done in `R`.
+
+The raw data consist of 5 files:
+
+`stream_metadata.csv` contains stream physicochemical data such as:
+location, width, depth, annual temperature, and discharge summaries
+(e.g., median Q, max Q, etc.).
+
+`jul_nutrients.csv` contains summarize dissolved nutrient values from
+July 2012
+
+`BOM_volumes.csv` contains sample and subsample volumes from individual
+samples
+
+`DM.csv` contains measured drymass and organic matter calculations from
+individual subtypes,
