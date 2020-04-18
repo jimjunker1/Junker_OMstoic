@@ -10,7 +10,7 @@ Stoichiometry in Streams. *Ecosystems*
 
 **Code DOI:**
 
-*Insert code link here*
+[![DOI](https://zenodo.org/badge/256362584.svg)](https://zenodo.org/badge/latestdoi/256362584)
 
 All analyses were done in `R`.
 
