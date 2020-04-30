@@ -196,7 +196,6 @@ summary_stoic <- stoic.df %>%
             seCPeco_molar = se(CPeco_molar), seNPeco_molar = se(NPeco_molar), varCNeco_molar = var(CNeco_molar, na.rm = TRUE), varCPeco_molar = var(CPeco_molar, na.rm = TRUE), 
             varNPeco_molar = var(NPeco_molar, na.rm = TRUE))
 
-options(stringsAsFactors = FALSE, max.print = 100000)
 
 ##### subset full year data to just summer ####
 
@@ -316,6 +315,7 @@ GB_summary %>%
 load(file = "./data/ocecolors.rda", envir = .GlobalEnv)
 theme_set(theme_mod)
 #################### End data manipulation code ######################
+## clean environment of uneeded objects ##
 rm(list = ls()[!ls() %in% c("j.df", "j.stoic_df","j.summary_stoic", "GB_samples",
                             "GB_summary", "se","ci","pred_plot","preddat_fun",
                             "blackwhite","colors", "theme_mod","theme_black")])
