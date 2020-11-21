@@ -1,5 +1,5 @@
 ---
-title: "Patterns and Drivers of Ecosystem-level Biomass and Stoichiometry in Streams"
+title: "Flow is more Important than Temperature in Driving Patterns of Organic Matter Storage and Stoichiometry in Stream Ecosystems"
 output: github_document
 ---
 
@@ -10,7 +10,9 @@ This repository contains code and data needed to reproduce the article:
 
 **Code DOI:**
 
-[![DOI](https://zenodo.org/badge/3756279.svg)](https://zenodo.org/badge/latestdoi/3756279)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3779468.svg)](https://doi.org/10.5281/zenodo.3779468)
+
+
 
 All analyses were done in `R` [https://cran.r-project.org/](https://cran.r-project.org/)
 
